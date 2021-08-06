@@ -1,0 +1,1 @@
+'''Docker compose file for the creation and deployment of a Fastapi backed with a neo4j graph database.'''
